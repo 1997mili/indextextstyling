@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+p{
+    color: white;
+    font-size: xx-large;
+    font-family: 'Splash', cursive;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: wheat;
+    text-align: center;
+    font-family: 'Blaka Hollow', cursive;
+}
